@@ -7,6 +7,11 @@ A comprehensive rental management platform built with the MERN stack that stream
 ![React](https://img.shields.io/badge/react-18.x-blue.svg)
 ![MongoDB](https://img.shields.io/badge/mongodb-6.x-green.svg)
 
+## Roles
+
+- Varshith - Frontend and api intergration 
+- Sandeep - Backend and Database
+
 ## 🚀 Features
 
 ### Core Rental Features
